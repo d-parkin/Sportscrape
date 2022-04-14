@@ -1,6 +1,10 @@
 # David Parkin
 # Expand to see betting odds and predictions or analyze other data given by the API
 # Uses Hidden API Endpoints to get game information
+
+# Tasks: Create classes for the team and score type so that they can be used for more things
+
+
 import json
 import requests
 
